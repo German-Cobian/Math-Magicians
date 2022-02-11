@@ -6,9 +6,7 @@
 make simple calculations and read a random math-related quote.
 
 ### LiveDemo
-https://g-math-magicians.herokuapp.com/
 
-https://hardcore-thompson-e327ee.netlify.app/quote
 
 ### Setup and Install
 
