@@ -4,6 +4,33 @@
   box-sizing: border-box;
 }
 
+.nav-bar,
+.navbar-container {
+  width: 100%;
+  padding: 10px 0;
+}
+
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.brand-name {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.nav-links li {
+  margin-right: 50px;
+}
+
 .keyboard,
 .calculator-body {
   display: flex;
