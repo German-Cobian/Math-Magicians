@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`APP(main component) it should match snapshot 1`] = `
+Array [
+  <nav
+    className="nav-bar"
+  >
+    <div
+      className="navbar-container"
+    >
+      <span
+        className="brand-name"
+      >
+        Math Magicians
+      </span>
+      <ul
+        className="nav-links"
+      >
+        <li>
+          <a
+            aria-current="page"
+            className="active-link"
+            href="/"
+            onClick={[Function]}
+            style={Object {}}
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            aria-current={null}
+            href="/calculator"
+            onClick={[Function]}
+          >
+            Calculator
+          </a>
+        </li>
+        <li>
+          <a
+            aria-current={null}
+            href="/quote"
+            onClick={[Function]}
+          >
+            Quote
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>,
+  <div
+    className="container"
+    computedMatch={
+      Object {
+        "isExact": true,
+        "params": Object {},
+        "path": "/",
+        "url": "/",
+      }
+    }
+    location={
+      Object {
+        "hash": "",
+        "pathname": "/",
+        "search": "",
+        "state": undefined,
+      }
+    }
+  >
+    <div
+      className="homepageContainer"
+    >
+      <h1
+        className="title"
+      >
+        Welcome to our page!
+      </h1>
+      <div
+        className="paragraphs"
+      >
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+        incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+        laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit 
+        esse cillum dolore eu fugiat nulla pariatur. 
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+        officia deserunt mollit anim id est laborum.
+        </p>
+        <p>
+          Dictum non consectetur a erat nam at lectus. 
+        In ante metus dictum at tempor commodo. 
+        Quisque id diam vel quam elementum pulvinar 
+        etiam non. Interdum velit euismod in 
+        pellentesque massa placerat duis ultricies. 
+        Erat velit scelerisque in dictum non. Tellus rutrum 
+        tellus pellentesque eu tincidunt tortor aliquam. 
+        Fringilla ut morbi tincidunt augue interdum velit. 
+        A condimentum vitae sapien pellentesque 
+        habitant morbi tristique senectus et. 
+        Nunc aliquet bibendum enim facilisis gravida neque convallis a cras. 
+        Lorem ipsum dolor sit amet consectetur. Integer malesuada 
+        nunc vel risus commodo viverra maecenas accumsan lacus. 
+        Arcu cursus euismod quis viverra nibh cras pulvinar.
+        </p>
+      </div>
+    </div>
+  </div>,
+]
+`;

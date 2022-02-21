@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<QuotePage /> it should match snapshot 1`] = `
+<div
+  className="quotepageContainer"
+>
+  <p
+    className="quoteText"
+  >
+    Mathematics is the music of reason.
+  </p>
+  <p
+    className="quoteText"
+  >
+    <strong>
+      — James Joseph Sylvester
+    </strong>
+  </p>
+</div>
+`;
