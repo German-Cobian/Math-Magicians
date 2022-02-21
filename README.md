@@ -10,7 +10,8 @@ make simple calculations and read a random math-related quote.
 ![Math-Magicians](/public/math-magicians-3.png?raw=true?raw=true "Quote-page")
 
 ### LiveDemo
-
+https://germans-math-magicians.herokuapp.com/
+https://boring-bose-880344.netlify.app/
 
 ### Setup and Install
 
