@@ -11,6 +11,7 @@ make simple calculations and read a random math-related quote.
 
 ### LiveDemo
 https://germans-math-magicians.herokuapp.com/
+
 https://boring-bose-880344.netlify.app/
 
 ### Setup and Install
