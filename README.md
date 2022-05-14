@@ -2,17 +2,26 @@
 
 # Math-Magicians
 
-> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-make simple calculations and read a random math-related quote.
+A single page React app whose main feature is a fully functioning basic calculator as one of it's pages,
+
+![Math-Magicians](/public/math-magicians-2.png?raw=true "Calculator-page")
+
+...  but also includes a landing page,
 
 ![Math-Magicians](/public/math-magicians-1.png?raw=true "Home-page")
-![Math-Magicians](/public/math-magicians-2.png?raw=true "Calculator-page")
+
+... and a page where the user can read a random math-related quote.
+
 ![Math-Magicians](/public/math-magicians-3.png?raw=true?raw=true "Quote-page")
+
+The most significant aspect of this app is the manner in which the calculator logic was adapted so that the display of its operations could be handled by React components. 
+
 
 ### LiveDemo
 https://germans-math-magicians.herokuapp.com/
 
 https://boring-bose-880344.netlify.app/
+
 
 ### Setup and Install
 
@@ -24,12 +33,13 @@ https://boring-bose-880344.netlify.app/
 * To fire up the server run `npm start`
 * Visit `http://localhost:3001/` in your browser to get into the app
 
+
 ## Built With
 
-* Semantic HTML
+* HTML
+* CSS
 * JavaScript
-* React
-* Yarn 
+* React 
 * Github workflow
 * Linters(Lighthouse, stylelint, Webhint, eslint)
 
@@ -38,8 +48,9 @@ https://boring-bose-880344.netlify.app/
 
 👤 **German Cobian**
 * GitHub: [@German Cobian](https://github.com/German-Cobian)
-* Twitter: [@GermanCobian1](https://twitter.com/GermanCobian1)
+* Twitter: [@GermanCobian2](https://twitter.com/GermanCobian2)
 * LinkedIn: [@German Cobian](https://www.linkedin.com/in/german-cobian/)
+
 
 ## 🤝 Contributing
 
@@ -47,14 +58,16 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/German-Cobian/Math-Magicians/issues).
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+
 ## Acknowledgments
 
-- Microverse
-- Code reviewer(s).
+Guidelines for this project supplied by [Microverse](https://github.com/microverseinc/curriculum-react-redux/tree/main/math-magicians)
+
 
 ## 📝 License
 
